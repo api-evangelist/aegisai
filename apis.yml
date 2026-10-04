@@ -48,8 +48,8 @@ tags:
 - Cybersecurity
 - Anti-Phishing
 - Threat Detection
-- Agentic AI
-- Microsoft-365
+- AI Agents
+- Microsoft 365
 - Google Workspace
 - Email
 tags_raw:
@@ -63,6 +63,7 @@ tags_raw:
 - Microsoft 365
 - Google Workspace
 - Email
+- Microsoft-365
 image: https://www.aegisai.ai/favicon.ico
 apis: []
 maintainers:
